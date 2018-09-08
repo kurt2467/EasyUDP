@@ -1,0 +1,6 @@
+c:\users\xdex1\source\repos\EasyUDP\EasyUDP\bin\Debug\EasyUDP.dll
+c:\users\xdex1\source\repos\EasyUDP\EasyUDP\bin\Debug\EasyUDP.pdb
+c:\users\xdex1\source\repos\EasyUDP\EasyUDP\obj\Debug\EasyUDP.csprojAssemblyReference.cache
+c:\users\xdex1\source\repos\EasyUDP\EasyUDP\obj\Debug\EasyUDP.csproj.CoreCompileInputs.cache
+c:\users\xdex1\source\repos\EasyUDP\EasyUDP\obj\Debug\EasyUDP.dll
+c:\users\xdex1\source\repos\EasyUDP\EasyUDP\obj\Debug\EasyUDP.pdb
